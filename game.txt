@@ -1,3 +1,4 @@
 Here is the game
 
 There will be an interface where blocks drop down and are made to join each other blabla
+As the blocks create a full line the lines will disappear blabla
